@@ -1,0 +1,16 @@
+{
+  "name": "Exam Booster",
+  "short_name": "UPSC Booster",
+  "description": "AI-powered case studies & examples for Exam preparation",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030810",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
